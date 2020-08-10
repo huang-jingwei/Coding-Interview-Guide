@@ -26,7 +26,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 | 题目序号 |                        自己实现的题解                        |                            OJ链接                            |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    01    | [斐波那契数列问题的递归和动态规划](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap4/01_fib.py) | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) |
-|    02    |                       矩阵的最小路径和                       | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) |
+|    02    | [矩阵的最小路径和](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap4/02_minPathSum.py) | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) |
 |    03    |                       换钱的最少货币数                       |                                                              |
 |    04    |                   机器人到达指定位置方法数                   |                                                              |
 |    05    |                         换钱的方法数                         |                                                              |
