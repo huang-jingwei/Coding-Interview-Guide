@@ -21,6 +21,31 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    10    |          最大值减去最小值小于或等于num的子数组数量           |                                                              |
 |    11    |                        可见山峰对数量                        |                                                              |
 
+## 第2章：链表问题
+
+| 题目序号 |                        自己实现的题解                        |                            OJ链接                            |
+| :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|    01    |                  打印两个有序链表的公布部分                  |                                                              |
+|    02    |             在单链表和双链表中删除倒数第K个节点              |                                                              |
+|   0 3    |                删除链表的中间节点和a/b处节点                 |                                                              |
+|    04    | [翻转单向和双向链表](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/04_reverseList.py) | [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) |
+|    05    |                       翻转部分单向链表                       |                                                              |
+|    06    |                    环形单链表的约瑟夫问题                    |                                                              |
+|    07    |                  判断一个链表是否为回文结构                  |                                                              |
+|    08    |     将单向链表按某值划分为左边小、中间相等、右边大的形式     |                                                              |
+|    09    | [复制含有随机指针节点的链表](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/09_copyRandomList.py) | [复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) |
+|    10    |                    两个单链表生成相加链表                    |                                                              |
+|    11    |                  两个单链表相交的一系列问题                  |                                                              |
+|    12    |                 将单链表的每K个节点之间逆序                  |                                                              |
+|    13    |               删除无序单链表中值重复出现的节点               |                                                              |
+|    14    |                  在单链表中删除指定值的节点                  |                                                              |
+|    15    |                  将搜索二叉树转换成双向链表                  |                                                              |
+|    16    |                       单链表的选择排序                       |                                                              |
+|    17    |                    一种怪异的节点删除方式                    |                                                              |
+|    18    |                向有序的环形单链表中插入新节点                |                                                              |
+|    19    | [合并两个有序的单链表](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/19_mergeTwoLists.py) | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |
+|    20    |               按照左右半区的方式重新组合单链表               |                                                              |
+
 ## 第4章：递归和动态规划
 
 | 题目序号 |                        自己实现的题解                        |                            OJ链接                            |
