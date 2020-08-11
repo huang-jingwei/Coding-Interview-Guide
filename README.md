@@ -36,10 +36,10 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    09    | [复制含有随机指针节点的链表](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/09_copyRandomList.py) | [复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) |
 |    10    | [两个单链表生成相加链表](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/10_addTwoNumbers.py) | [链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/) |
 |    11    | [两个单链表相交的一系列问题](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/11_getIntersectionNode.py) | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) |
-|    12    |                 将单链表的每K个节点之间逆序                  |                                                              |
+|    12    |                 将单链表的每K个节点之间逆序                  | [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) |
 |    13    | [删除无序单链表中值重复出现的节点](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/13_deleteDuplicates.py) | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) |
 |    14    | [在单链表中删除指定值的节点](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/14_deleteNode.py) | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) |
-|    15    |                  将搜索二叉树转换成双向链表                  |                                                              |
+|    15    |                  将搜索二叉树转换成双向链表                  | [二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) |
 |    16    |                       单链表的选择排序                       | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) |
 |    17    | [一种怪异的节点删除方式](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/17_deleteNode.py) | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) |
 |    18    | [向有序的环形单链表中插入新节点](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/18_insertNode.py) | [向有序的环形单链表中插入新节点(牛客网)](https://www.nowcoder.com/practice/8a2ed8d048f241fd92b478140bad18a1?tpId=101&&tqId=33226&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
