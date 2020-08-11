@@ -27,20 +27,20 @@ Python语言实现左程云《程序员代码面试指南》第二版
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    01    |                  打印两个有序链表的公布部分                  |                                                              |
 |    02    |             在单链表和双链表中删除倒数第K个节点              |                                                              |
-|   0 3    |                删除链表的中间节点和a/b处节点                 |                                                              |
+|    03    |                删除链表的中间节点和a/b处节点                 | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/) |
 |    04    | [翻转单向和双向链表](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/04_reverseList.py) | [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) |
 |    05    |                       翻转部分单向链表                       |                                                              |
 |    06    |                    环形单链表的约瑟夫问题                    |                                                              |
-|    07    |                  判断一个链表是否为回文结构                  |                                                              |
+|    07    | [判断一个链表是否为回文结构](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/07_isPalindrome.py) | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) |
 |    08    |     将单向链表按某值划分为左边小、中间相等、右边大的形式     |                                                              |
 |    09    | [复制含有随机指针节点的链表](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/09_copyRandomList.py) | [复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) |
 |    10    |                    两个单链表生成相加链表                    |                                                              |
 |    11    |                  两个单链表相交的一系列问题                  |                                                              |
 |    12    |                 将单链表的每K个节点之间逆序                  |                                                              |
-|    13    |               删除无序单链表中值重复出现的节点               |                                                              |
-|    14    |                  在单链表中删除指定值的节点                  |                                                              |
+|    13    | [删除无序单链表中值重复出现的节点](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/13_deleteDuplicates.py) | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) |
+|    14    | [在单链表中删除指定值的节点](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/14_deleteNode.py) | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) |
 |    15    |                  将搜索二叉树转换成双向链表                  |                                                              |
-|    16    |                       单链表的选择排序                       |                                                              |
+|    16    |                       单链表的选择排序                       | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) |
 |    17    |                    一种怪异的节点删除方式                    |                                                              |
 |    18    |                向有序的环形单链表中插入新节点                |                                                              |
 |    19    | [合并两个有序的单链表](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/19_mergeTwoLists.py) | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |
