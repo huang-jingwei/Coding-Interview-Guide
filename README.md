@@ -32,7 +32,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    05    |                       翻转部分单向链表                       |                                                              |
 |    06    |                    环形单链表的约瑟夫问题                    |                                                              |
 |    07    | [判断一个链表是否为回文结构](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/07_isPalindrome.py) | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) |
-|    08    |     将单向链表按某值划分为左边小、中间相等、右边大的形式     |                                                              |
+|    08    | [将单向链表按某值划分为左边小、中间相等、右边大的形式](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/08_sortColors.py) |  [颜色分类](https://leetcode-cn.com/problems/sort-colors/)   |
 |    09    | [复制含有随机指针节点的链表](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/09_copyRandomList.py) | [复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) |
 |    10    |                    两个单链表生成相加链表                    |                                                              |
 |    11    |                  两个单链表相交的一系列问题                  |                                                              |
