@@ -3,7 +3,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 
 牛客网OJ：[程序员代码面试指南](https://www.nowcoder.com/ta/programmer-code-interview-guide?page=1)
 
-因为我更加喜欢LeetCode的测试界面，除非特殊说明，否则OJ链接均默认为LeetCode对应题目链接。 
+因为牛客网OJ在测试时在判断链表、二叉树等结构均是以链表结构进行判断的。这样会导致不能全面的判断对一个题目的了解程度。所以下面除特殊说明，否则OJ链接均默认为LeetCode对应题目链接。 
 
 ## 第1章：栈和队列
 
@@ -27,7 +27,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    01    | [打印两个有序链表的公布部分](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/01_printCommonPart.py) | [打印两个有序链表的公布部分(牛客网)](https://www.nowcoder.com/practice/8943eea40dbb4185b187d80fd050fee9?tpId=101&&tqId=33116&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 |    02    |             在单链表和双链表中删除倒数第K个节点              |                                                              |
-|    03    | [删除链表的中间节点和a/b处节点](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/03_deleteNode.py) | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/)、[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) |
+|    03    | [删除链表的中间节点和a/b处节点](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/03_deleteNode.py) | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/) |
 |    04    | [翻转单向和双向链表](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/04_reverseList.py) | [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) |
 |    05    |                       翻转部分单向链表                       |                                                              |
 |    06    |                    环形单链表的约瑟夫问题                    |                                                              |
@@ -41,8 +41,8 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    14    | [在单链表中删除指定值的节点](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/14_deleteNode.py) | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) |
 |    15    |                  将搜索二叉树转换成双向链表                  |                                                              |
 |    16    |                       单链表的选择排序                       | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/) |
-|    17    |                    一种怪异的节点删除方式                    |                                                              |
-|    18    |                向有序的环形单链表中插入新节点                |                                                              |
+|    17    | [一种怪异的节点删除方式](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/17_deleteNode.py) | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) |
+|    18    |                向有序的环形单链表中插入新节点                | [向有序的环形单链表中插入新节点(牛客网)](https://www.nowcoder.com/practice/8a2ed8d048f241fd92b478140bad18a1?tpId=101&&tqId=33226&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 |    19    | [合并两个有序的单链表](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/19_mergeTwoLists.py) | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |
 |    20    |               按照左右半区的方式重新组合单链表               |                                                              |
 
