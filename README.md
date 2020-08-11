@@ -27,7 +27,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    01    |                  打印两个有序链表的公布部分                  |                                                              |
 |    02    |             在单链表和双链表中删除倒数第K个节点              |                                                              |
-|    03    |                删除链表的中间节点和a/b处节点                 | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/) |
+|    03    | [删除链表的中间节点和a/b处节点](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/03_deleteNode.py) | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/)、[删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) |
 |    04    | [翻转单向和双向链表](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/04_reverseList.py) | [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) |
 |    05    |                       翻转部分单向链表                       |                                                              |
 |    06    |                    环形单链表的约瑟夫问题                    |                                                              |
