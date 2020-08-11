@@ -1,0 +1,5 @@
+
+
+
+def printCommonPart():
+    pass
