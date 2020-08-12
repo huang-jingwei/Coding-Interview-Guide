@@ -50,7 +50,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 
 | 题目序号 |                        自己实现的题解                        |                            OJ链接                            |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|    01    |     分别用递归和非递归方式实现二叉树先序、中序和后序遍历     |                                                              |
+|    01    | [分别用递归和非递归方式实现二叉树先序、中序和后序遍历](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3/01_treePrint) | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)、[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)、[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) |
 |    02    | [二叉树的最小深度](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/02_minDepth.py) | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)、[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |
 |    03    |                   如何较为直观的打印二叉树                   |                                                              |
 |    04    |                   二叉树的序列化和反序列化                   |                                                              |
