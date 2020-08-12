@@ -3,7 +3,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 
 牛客网OJ：[程序员代码面试指南](https://www.nowcoder.com/ta/programmer-code-interview-guide?page=1)
 
-因为牛客网OJ在测试时在判断链表、二叉树等结构均是以链表结构进行判断的。这样不能准确评估是否已经正确解出题目。故下面除特殊说明，否则OJ链接均默认为LeetCode对应题目链接。 
+因为牛客网OJ在链表、二叉树等相关题目均把题目数据以链表数据结构给出，略掉了二叉树、链表等结构的相关信息。这样不能准确评估是否已经正确解出题目。故下面除特殊说明，否则OJ链接均默认为LeetCode对应题目链接。 
 
 ## 第1章：栈和队列
 
@@ -26,7 +26,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 | 题目序号 |                        自己实现的题解                        |                            OJ链接                            |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    01    | [打印两个有序链表的公布部分](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/01_printCommonPart.py) | [打印两个有序链表的公布部分(牛客网)](https://www.nowcoder.com/practice/8943eea40dbb4185b187d80fd050fee9?tpId=101&&tqId=33116&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
-|    02    |             在单链表和双链表中删除倒数第K个节点              | [ 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) |
+|    02    | [在单链表和双链表中删除倒数第K个节点](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/02_removeNthFromEnd.py) | [ 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) |
 |    03    | [删除链表的中间节点和a/b处节点](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/03_deleteNode.py) | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/) |
 |    04    | [翻转单向和双向链表](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap2/04_reverseList.py) | [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) |
 |    05    |                       翻转部分单向链表                       |                                                              |
