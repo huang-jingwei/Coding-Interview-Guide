@@ -51,15 +51,15 @@ Python语言实现左程云《程序员代码面试指南》第二版
 | 题目序号 |                        自己实现的题解                        |                            OJ链接                            |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    01    | [分别用递归和非递归方式实现二叉树先序、中序和后序遍历](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3/01_treePrint) | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)、[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)、[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) |
-|    02    | [二叉树的最小深度](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/02_minDepth.py) | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)、[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |
+|    02    |                       二叉树的最小深度                       | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)、[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |
 |    03    |                   如何较为直观的打印二叉树                   |                                                              |
-|    04    |                   二叉树的序列化和反序列化                   |                                                              |
+|    04    | [二叉树的序列化和反序列化](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/04_serialize_deserialize.py) | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |
 |    05    |                     遍历二叉树的神级方法                     |                                                              |
 |    06    |          在二叉树中找到累加和为指定值的最长路径长度          |                                                              |
 |    07    |                找到二叉树中的最大搜索二叉子树                |                                                              |
 |    08    |         找到二叉树中符合搜索二叉树条件的最大拓扑结构         |                                                              |
-|    09    |                 二叉树的按层打印和ZigZag打印                 |                                                              |
-|    10    |                调整搜索二叉树中两个错误的节点                |                                                              |
+|    09    | [二叉树的按层打印和ZigZag打印](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3/09_treePrint) | [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |
+|    10    |                调整搜索二叉树中两个错误的节点                | [恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) |
 |    11    |              判断t1树是否包含t2树全部的拓扑结构              |                                                              |
 |    12    |          判断t1树是否有与t2树拓扑结构完全相同的子树          |                                                              |
 |    13    |                  判断二叉树是否为平衡二叉树                  |                                                              |
