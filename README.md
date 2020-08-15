@@ -105,6 +105,8 @@ Python语言实现左程云《程序员代码面试指南》第二版
 
 ## 第8章：数组和矩阵问题
 
+第5题还没做完
+
 | 题目序号 |                        自己实现的题解                        |                            OJ链接                            |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    01    | [转圈打印矩阵](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/01_spiralOrder.py) | [顺时针打印矩阵](https://leetcode-cn.com/problems/shun-shi-zhen-da-yin-ju-zhen-lcof/) |
@@ -112,7 +114,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    03    | [”之“字型打印矩阵](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/03_findDiagonalOrder.py) | [对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/) |
 |    04    | [找到无序数组中最小的k个数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/04_getLeastNumbers.py) | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) |
 |    05    | [需要排序的最短子数组长度](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/05_findUnsortedSubarray.py) | [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) |
-|    06    |               在数组中找到出现次数大于N/K的数                |                                                              |
+|    06    | [在数组中找到出现次数大于N/K的数](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap8/06_majorityElement) | [数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)、[求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) |
 |    07    |                在行列都排好序的矩阵中找指定数                |                                                              |
 |    08    |                   最长的可整合子数组的长度                   |                                                              |
 |    09    |    不重复打印排序数组中相加和为给定值得所有二元组和三元组    |                                                              |
