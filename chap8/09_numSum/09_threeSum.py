@@ -19,7 +19,8 @@ class Solution:
             while left < right:
                 if nums[firstNumIndex] + nums[left] + nums[right] == 0:
                     answer.append([nums[firstNumIndex], nums[left], nums[right]])
-                    while left < right and nums[left] == nums[left + 1]:  # 1去除重复解
+                    # 对于重复元素：跳过，避免出现重复解
+                    while left < right and nums[left] == nums[left + 1]: 
                         left += 1
                     while left < right and nums[right] == nums[right - 1]:
                         right = right - 1
