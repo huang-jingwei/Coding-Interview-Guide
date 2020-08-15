@@ -105,7 +105,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 
 ## 第8章：数组和矩阵问题
 
-第5题还没做完
+第5题还没做完，第6题的进阶问题还没做完。
 
 | 题目序号 |                        自己实现的题解                        |                            OJ链接                            |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -115,7 +115,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    04    | [找到无序数组中最小的k个数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/04_getLeastNumbers.py) | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) |
 |    05    | [需要排序的最短子数组长度](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/05_findUnsortedSubarray.py) | [最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray/) |
 |    06    | [在数组中找到出现次数大于N/K的数](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap8/06_majorityElement) | [数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)、[求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) |
-|    07    |                在行列都排好序的矩阵中找指定数                |                                                              |
+|    07    | [在行列都排好序的矩阵中找指定数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/07_findNumberIn2DArray.py) | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) |
 |    08    |                   最长的可整合子数组的长度                   |                                                              |
 |    09    |    不重复打印排序数组中相加和为给定值得所有二元组和三元组    |                                                              |
 |    10    |         未排序正数组中累加和为给定值的最长子数组长度         |                                                              |
