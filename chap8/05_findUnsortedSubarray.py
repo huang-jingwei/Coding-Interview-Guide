@@ -1,35 +1,30 @@
-import random
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
-        left = 0          # 数组下标的左右下标
-        right = len(nums) - 1
-        if right == 0:    # 数组只有一个元素时，直接返回
-            return nums[0]
-        mid = (0 + len(nums)) // 2
-        indexRange = self.partition(nums, left, right)
-        while mid < indexRange[0] or indexRange[1] < mid:
-            if mid < indexRange[0]:
-                right = indexRange[0]
-                indexRange = self.partition(nums, left, right)
-            elif indexRange[1] < mid:
-                left = indexRange[1]
-                indexRange = self.partition(nums, left, right)
-        return nums[mid]
+    def findUnsortedSubarray(self, nums: List[int]) -> int:
+        if len(nums) == 0 or len(nums) == 1:
+            return 0
 
-    # 荷兰国旗问题的partition过程
-    def partition(self, nums, left, right):
-        num = nums[random.randint(left, right)]
-        less = left - 1
-        more = right + 1
-        index = left
-        while index < more:
-            if nums[index] == num:
-                index += 1
-            elif nums[index] < num:
-                less += 1
-                nums[index], nums[less] = nums[less], nums[index]
-                index += 1
-            elif nums[index] > num:
-                more -= 1
-                nums[index], nums[more] = nums[more], nums[index]
-        return [less + 1, more - 1]
+        # 需要进行重新排序的数组的左右边界
+        isNeed = False  # 布尔器，判断是否需要重新排序
+        left = 0
+        right = len(nums) - 1
+
+        for index in range(len(nums)):  # 确定待排序数组的左边界
+            if nums[index] >= nums[left]:
+                left = index
+            else:
+                left = index
+                isNeed = True
+                break
+
+        for index in range(len(nums) - 1, -1, -1):  # 确定待排序数组的右边界
+            if nums[index] <= nums[right]:
+                right = index
+            else:
+                right = index
+                isNeed = True
+                break
+
+        if isNeed == False:
+            return 0
+        else:
+            return right - left + 1
