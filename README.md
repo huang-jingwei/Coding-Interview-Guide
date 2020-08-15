@@ -117,7 +117,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    06    | [在数组中找到出现次数大于N/K的数](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap8/06_majorityElement) | [数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)、[求众数 II](https://leetcode-cn.com/problems/majority-element-ii/) |
 |    07    | [在行列都排好序的矩阵中找指定数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/07_findNumberIn2DArray.py) | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) |
 |    08    |                   最长的可整合子数组的长度                   |                                                              |
-|    09    |    不重复打印排序数组中相加和为给定值得所有二元组和三元组    |                                                              |
+|    09    |    不重复打印排序数组中相加和为给定值得所有二元组和三元组    | [和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) |
 |    10    |         未排序正数组中累加和为给定值的最长子数组长度         |                                                              |
 |    11    |        未排序数组中累加和为给定值的最长子数组系列问题        |                                                              |
 |    12    |       未排序数组中累加小于或等于给定值的最长子数组长度       |                                                              |
