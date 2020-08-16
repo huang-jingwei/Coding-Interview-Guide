@@ -79,6 +79,8 @@ Python语言实现左程云《程序员代码面试指南》第二版
 
 ## 第4章：递归和动态规划
 
+第5题没做优化。
+
 | 题目序号 |                        自己实现的题解                        |                            OJ链接                            |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    01    | [斐波那契数列问题的递归和动态规划](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap4/01_fib.py) | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) |
@@ -87,7 +89,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    04    |                   机器人到达指定位置方法数                   |                                                              |
 |    05    | [换钱的方法数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap4/05_coinChange.py) | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) |
 |    06    |                       打气球的最大分数                       |                                                              |
-|    07    |                        最长递增子序列                        |                                                              |
+|    07    | [最长递增子序列](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap4/07_findNumberOfLIS.py) | [最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) |
 |    08    |                         信封嵌套问题                         |                                                              |
 |    09    |                          汉诺塔问题                          |                                                              |
 |    10    |                      最长公共子序列问题                      |                                                              |
