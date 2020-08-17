@@ -1,6 +1,6 @@
 class Solution:
     def maxSubArray(self, nums: List[int]) -> int:
-        if len(nums) == 1:  # 只有一个元素
+        if len(nums) == 1:      # 只有一个元素
             return nums[0]
 
         maxSubArraySum = [0] * len(nums)
