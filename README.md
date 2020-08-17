@@ -102,7 +102,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    17    |                 表达式得到期望结果的组成种数                 |                                                              |
 |    18    |                   排成一条线的纸牌博弈问题                   |                                                              |
 |    19    |                           跳跃游戏                           | [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) |
-|    20    |                      数组中最长连续序列                      |                                                              |
+|    20    |                      数组中最长连续序列                      | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) |
 |    21    |                          N皇后问题                           |                                                              |
 
 ## 第8章：数组和矩阵问题
@@ -126,7 +126,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    13    |                        计算数组的小和                        |                                                              |
 |    14    |                       自然数数组的排序                       |                                                              |
 |    15    |              奇数下标都是奇数或偶数下标都是偶数              |                                                              |
-|    16    |                    子数组的最大累加和问题                    |                                                              |
+|    16    | [子数组的最大累加和问题](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/16_maxSubArray.py) | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) |
 |    17    |                    子矩阵的最大累加和问题                    |                                                              |
 |    18    |                在数组中找到一个局部最小的位置                |                                                              |
 |    19    |                   数组中子数组的最大累乘积                   |                                                              |
