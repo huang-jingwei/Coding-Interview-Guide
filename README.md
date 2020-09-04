@@ -54,7 +54,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    02    |                       二叉树的最小深度                       | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)、[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |
 |    03    |                   如何较为直观的打印二叉树                   |                                                              |
 |    04    | [二叉树的序列化和反序列化](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/04_serialize_deserialize.py) | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |
-|    05    |                     遍历二叉树的神级方法                     |                                                              |
+|    05    |              遍历二叉树的神级方法（Morris遍历）              |                                                              |
 |    06    |          在二叉树中找到累加和为指定值的最长路径长度          |                                                              |
 |    07    |                找到二叉树中的最大搜索二叉子树                |                                                              |
 |    08    |         找到二叉树中符合搜索二叉树条件的最大拓扑结构         |                                                              |
@@ -69,7 +69,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    17    |               在二叉树中找到一个节点的后继节点               |                                                              |
 |    18    |             在二叉树中找到两个节点的最近公共祖先             |                                                              |
 |    19    | Tarjan算法与并查集解决二叉树节点间最近公共祖先的批量查询问题 |                                                              |
-|    20    |                  二叉树节点间的最大距离问题                  |                                                              |
+|    20    | [二叉树节点间的最大距离问题](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/20_diameterOfBinaryTree.py) | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |
 |    21    |                       派对的最大快乐值                       |                                                              |
 |    22    |              通过先序遍历和中序遍历生成后序数组              |                                                              |
 |    23    |                  统计和生成所有不同的二叉树                  |                                                              |
