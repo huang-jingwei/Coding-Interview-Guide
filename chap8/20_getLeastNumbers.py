@@ -1,17 +1,30 @@
-class Solution:
-    def findNumberIn2DArray(self, matrix: List[List[int]], target: int) -> bool:
-        if len(matrix) == 0:
-            return False
+import random
 
-        rows = len(matrix)  # 二维数组的行、列
-        cols = len(matrix[0])
-        rowIndex = 0        # 搜索起点设置为右上角
-        colIndex = cols - 1
-        while rowIndex < rows and colIndex >= 0:
-            if matrix[rowIndex][colIndex] == target:
-                return True
-            elif matrix[rowIndex][colIndex] < target:
-                rowIndex += 1
-            elif matrix[rowIndex][colIndex] > target:
-                colIndex -= 1
-        return False
+class Solution:
+    def getLeastNumbers(self, arr: List[int], k: int) -> List[int]:
+        if k == 0:
+            return []
+        k = k - 1  # 修改k，让数组下标计数从0开始
+        left = 0   # 数组下标边界
+        right = len(arr) - 1
+        indexRange = self.partition(arr, left, right)
+        while k > indexRange[1] or k < indexRange[0]:
+            if k < indexRange[0]:
+                right = indexRange[0]
+                indexRange = self.partition(arr, left, right)
+            else:
+                left = indexRange[1]
+                indexRange = self.partition(arr, left, right)
+        return arr[:k + 1]
+
+    # 荷兰国旗问题的partition过程
+    def partition(self, arr, left, right):
+        num = arr[random.randint(left, right)]
+        less = left - 1
+        more = right + 1
+        index = left
+        while index < more:
+            if arr[index] == num:
+                index += 1
+            elif arr[index] < num:
+                less += 1
