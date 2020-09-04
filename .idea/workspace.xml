@@ -81,9 +81,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap3/13_isBalanced.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="594">
+              <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../notes/CodingInterviewChinese2/chap6/55_TreeDepth/isBalanced.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="16" column="22" lean-forward="true" selection-end-line="22" selection-end-column="47" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -131,10 +144,11 @@
         <option value="$PROJECT_DIR$/chap3/15_isValidBST/15_isValidBST.py" />
         <option value="$PROJECT_DIR$/chap3/15_isValidBST/15_isCompleteTree.py" />
         <option value="$PROJECT_DIR$/chap3/24_countNodes.py" />
+        <option value="$PROJECT_DIR$/chap3/13_isBalanced.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="324" />
     <option name="y" value="157" />
     <option name="width" value="1508" />
@@ -421,7 +435,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chap3/13_isBalanced.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="47" selection-start-line="22" selection-start-column="47" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../notes/CodingInterviewChinese2/chap6/55_TreeDepth/isBalanced.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="16" column="22" lean-forward="true" selection-end-line="22" selection-end-column="47" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
