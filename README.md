@@ -129,8 +129,8 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    16    | [子数组的最大累加和问题](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/16_maxSubArray.py) | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) |
 |    17    |                    子矩阵的最大累加和问题                    |                                                              |
 |    18    |                在数组中找到一个局部最小的位置                |                                                              |
-|    19    |                   数组中子数组的最大累乘积                   |                                                              |
-|    20    |                  打印N个数组整体最大的Top K                  |                                                              |
+|    19    |                   数组中子数组的最大累乘积                   | [乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) |
+|    20    | [打印N个数组整体最大的Top K](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/20_getLeastNumbers.py) | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) |
 |    21    |                  边界都是1的最大正方形大小                   |                                                              |
 |    22    |                    不包含本位置的累乘数组                    |                                                              |
 |    23    |                     数组的partition调整                      |                                                              |
