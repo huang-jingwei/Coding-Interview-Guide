@@ -10,9 +10,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap3/20_diameterOfBinaryTree.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../notes/CodingInterviewChinese2/chap5/41_StreamMedian/StreamMedian.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="413">
+              <caret line="97" column="23" lean-forward="true" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../notes/CodingInterviewChinese2/chap5/41_StreamMedian/MedianFinder.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="710">
+              <caret line="125" column="28" lean-forward="true" selection-end-line="125" selection-end-column="28" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -61,6 +83,9 @@
         <option value="$PROJECT_DIR$/chap3/15_isValidBST/15_isCompleteTree.py" />
         <option value="$PROJECT_DIR$/chap3/24_countNodes.py" />
         <option value="$PROJECT_DIR$/chap3/13_isBalanced.py" />
+        <option value="$PROJECT_DIR$/chap3/20_diameterOfBinaryTree.py" />
+        <option value="$PROJECT_DIR$/../notes/CodingInterviewChinese2/chap5/41_StreamMedian/test.py" />
+        <option value="$PROJECT_DIR$/../notes/CodingInterviewChinese2/chap5/41_StreamMedian/MedianFinder.py" />
       </list>
     </option>
   </component>
@@ -113,8 +138,8 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989154" visible="true" weight="0.24973656" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.5010846" side_tool="true" visible="true" weight="0.24973656" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -365,7 +390,32 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chap3/20_diameterOfBinaryTree.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../notes/CodingInterviewChinese2/chap5/41_StreamMedian/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../notes/CodingInterviewChinese2/chap5/41_StreamMedian/StreamMedian.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="97" column="23" lean-forward="true" selection-start-line="97" selection-start-column="23" selection-end-line="97" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../notes/CodingInterviewChinese2/chap5/41_StreamMedian/MedianFinder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="125" column="28" lean-forward="true" selection-end-line="125" selection-end-column="28" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
