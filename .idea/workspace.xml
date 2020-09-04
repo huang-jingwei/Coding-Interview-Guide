@@ -13,8 +13,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://D:/repos/data/jwl/regression.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="842">
-              <caret line="88" column="8" lean-forward="true" selection-start-line="88" selection-end-line="89" />
+            <state relative-caret-position="1674">
+              <caret line="88" column="8" selection-start-line="88" selection-end-line="89" />
               <folding>
                 <element signature="e#0#46#0" expanded="true" />
               </folding>
@@ -26,22 +26,27 @@
         <entry file="file://$PROJECT_DIR$/chap3/02_minDepth.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="621">
-              <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap3/04_serialize_deserialize.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1574">
-              <caret line="67" column="39" lean-forward="true" selection-start-line="67" selection-end-line="68" />
+            <state relative-caret-position="819">
+              <caret line="67" column="39" selection-start-line="67" selection-end-line="68" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap3/10_recoverTree.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chap3/14_verifyPostorder/14_verifyPostorder.py">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
@@ -89,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="324" />
     <option name="y" value="157" />
     <option name="width" value="1508" />
@@ -106,7 +111,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chap3/02_minDepth.py" />
+    <property name="last_opened_file_path" value="C:/software/anaconda3" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -136,6 +141,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -296,23 +302,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/repos/data/jwl/regression.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="842">
-          <caret line="88" column="8" lean-forward="true" selection-start-line="88" selection-end-line="89" />
-          <folding>
-            <element signature="e#0#46#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap3/01_treePrint/09_levelOrder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="22" column="26" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/chap3/01_treePrint/09_levelOrder.py" />
     <entry file="file://$PROJECT_DIR$/chap3/01_treePrint/01_inorderTraversal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="486">
@@ -334,29 +324,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap3/09_levelOrder.py">
+    <entry file="file://$PROJECT_DIR$/chap3/09_levelOrder.py" />
+    <entry file="file://D:/repos/data/jwl/regression.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-27">
-          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+        <state relative-caret-position="1674">
+          <caret line="88" column="8" selection-start-line="88" selection-end-line="89" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chap3/02_minDepth.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
-          <caret line="23" column="31" lean-forward="true" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap3/04_serialize_deserialize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="67" column="39" selection-start-line="67" selection-end-line="68" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chap3/10_recoverTree.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/chap3/04_serialize_deserialize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1574">
-          <caret line="67" column="39" lean-forward="true" selection-start-line="67" selection-end-line="68" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/chap3/14_verifyPostorder/14_verifyPostorder.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
