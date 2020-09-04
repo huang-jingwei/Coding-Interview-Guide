@@ -1,26 +1,35 @@
-# Definition for a binary tree node.
-class TreeNode:
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
-
-
+import random
 class Solution:
+    def getLeastNumbers(self, arr: List[int], k: int) -> List[int]:
+        if k == 0:
+            return []
+        k = k - 1   # 修改k，让数组下标计数从0开始
+        left = 0    # 数组下标边界
+        right = len(arr) - 1
+        indexRange = self.partition(arr, left, right)
+        while k > indexRange[1] or k < indexRange[0]:
+            if k < indexRange[0]:
+                right = indexRange[0]
+                indexRange = self.partition(arr, left, right)
+            else:
+                left = indexRange[1]
+                indexRange = self.partition(arr, left, right)
+        return arr[:k + 1]
 
-    def diameterOfBinaryTree(self, root: TreeNode) -> int:
-        if root == None:
-            return 0
-        leftHeight = self.height(root.left)
-        rightHeight = self.height(root.right)
-        curDistance = max(leftHeight, rightHeight, leftHeight + rightHeight)  # 当前节点能构成的最大直径
-
-        return max(curDistance, self.diameterOfBinaryTree(root.left), self.diameterOfBinaryTree(root.right))
-
-    # 计算一个节点作为头结点时所能构成的二叉树的高度
-    def height(self, root):
-        if root == None:
-            return 0
-        leftHeight = self.height(root.left)
-        rightHeight = self.height(root.right)
-        return max(leftHeight, rightHeight) + 1
+    # 荷兰国旗问题的partition过程
+    def partition(self, arr, left, right):
+        num = arr[random.randint(left, right)]
+        less = left - 1
+        more = right + 1
+        index = left
+        while index < more:
+            if arr[index] == num:
+                index += 1
+            elif arr[index] < num:
+                less += 1
+                arr[index], arr[less] = arr[less], arr[index]
+                index += 1
+            elif arr[index] > num:
+                more -= 1
+                arr[index], arr[more] = arr[more], arr[index]
+        return [less + 1, more - 1]
