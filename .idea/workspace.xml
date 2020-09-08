@@ -28,9 +28,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap3/22_buildTree/22_buildTree(by inorder and postorder) .py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="710">
+              <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chap3/22_buildTree/22_buildTree(by preorder and postorder).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-181" />
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -93,6 +104,7 @@
         <option value="$PROJECT_DIR$/chap3/20_diameterOfBinaryTree.py" />
         <option value="$PROJECT_DIR$/chap8/20_getLeastNumbers.py" />
         <option value="$PROJECT_DIR$/chap3/16_sortedArrayToBST.py" />
+        <option value="$PROJECT_DIR$/chap3/22_buildTree/22_buildTree(by inorder and postorder) .py" />
       </list>
     </option>
   </component>
@@ -427,7 +439,16 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chap3/22_buildTree/22_buildTree(by inorder and postorder) .py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="710">
+          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap3/22_buildTree/22_buildTree(by preorder and postorder).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-181" />
+      </provider>
     </entry>
   </component>
 </project>
