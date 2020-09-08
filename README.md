@@ -16,8 +16,8 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    05    | [用一个栈实现另一个栈的排序](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap1/05_SortedStack.py) | [栈排序](https://leetcode-cn.com/problems/sort-of-stacks-lcci/) |
 |    06    |                     用栈来求解汉诺塔问题                     |                                                              |
 |    07    | [生成窗口最大值数组](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap1/07_maxSlidingWindow.py) | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) |
-|    08    |                          单调栈结构                          | [单调栈结构(牛客网)](https://www.nowcoder.com/questionTerminal/e3d18ffab9c543da8704ede8da578b55) |
-|    09    |                      求最大子矩阵的大小                      |                                                              |
+|    08    | [单调栈结构](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap1/08_AllLessNumSubArray.py) | [单调栈结构(牛客网)](https://www.nowcoder.com/questionTerminal/e3d18ffab9c543da8704ede8da578b55) |
+|    09    |                      求最大子矩阵的大小                      | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) |
 |    10    |          最大值减去最小值小于或等于num的子数组数量           |                                                              |
 |    11    |                        可见山峰对数量                        |                                                              |
 
@@ -86,13 +86,13 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    01    | [斐波那契数列问题的递归和动态规划](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap4/01_fib.py) | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) |
 |    02    | [矩阵的最小路径和](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap4/02_minPathSum.py) | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) |
 |    03    | [换钱的最少货币数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap4/03_coinChange.py) |  [零钱兑换](https://leetcode-cn.com/problems/coin-change/)   |
-|    04    |                   机器人到达指定位置方法数                   |                                                              |
+|    04    |                   机器人到达指定位置方法数                   | [机器人到达指定位置方法数（牛客）](https://www.nowcoder.com/practice/54679e44604f44d48d1bcadb1fe6eb61?tpId=101&&tqId=33085&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 |    05    | [换钱的方法数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap4/05_coinChange.py) | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) |
 |    06    |                       打气球的最大分数                       |                                                              |
 |    07    | [最长递增子序列](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap4/07_findNumberOfLIS.py) | [最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) |
 |    08    |                         信封嵌套问题                         |                                                              |
 |    09    |                          汉诺塔问题                          |                                                              |
-|    10    |                      最长公共子序列问题                      |                                                              |
+|    10    | [最长公共子序列问题](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/10_longestCommonSubsequence.py) | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) |
 |    11    |                       最长公共子串问题                       |                                                              |
 |    12    |                   子数组异或为0的最多划分                    |                                                              |
 |    13    |                        最小的编辑代价                        |                                                              |
@@ -137,7 +137,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    24    |                         求最短通路值                         |                                                              |
 |    25    |                   数组中未出现的最小正整数                   |                                                              |
 |    26    |                 数组排序之后相邻数的最大差值                 |                                                              |
-|    27    |                     做项目的最大收益问题                     |                                                              |
+|    27    | [做项目的最大收益问题](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/27_findMaximizedCapital.py) | [IPO](https://leetcode-cn.com/problems/ipo/)（备注：思路没问题，但是会超出时间限制，还得进一步优化） |
 |    28    |                       分金条的最小花费                       |                                                              |
 |    29    |                         大楼轮廓问题                         |                                                              |
 |    30    |                     加油站良好出发点问题                     |                                                              |
