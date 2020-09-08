@@ -65,7 +65,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    13    | [判断二叉树是否为平衡二叉树](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/13_isBalanced.py) | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) |
 |    14    | [根据后序数组重建搜索二叉树](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3/14_verifyPostorder) | [二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) |
 |    15    | [判断一颗二叉树是否为搜索二叉树和完全二叉树](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3/15_isValidBST) | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)、[二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/) |
-|    16    |                通过有序数组生成平衡搜索二叉树                |                                                              |
+|    16    | [通过有序数组生成平衡搜索二叉树](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/16_sortedArrayToBST.py) | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) |
 |    17    |               在二叉树中找到一个节点的后继节点               |                                                              |
 |    18    |             在二叉树中找到两个节点的最近公共祖先             |                                                              |
 |    19    | Tarjan算法与并查集解决二叉树节点间最近公共祖先的批量查询问题 |                                                              |
