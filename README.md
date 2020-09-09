@@ -110,7 +110,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 | 题目序号 |                        自己实现的题解                        |                            OJ链接                            |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    01    | [判断两个字符串是否互为变形词](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap5/01_isDeformation.py) | [判断两个字符串是否互为变形词(牛客)](https://www.nowcoder.com/practice/b07c464a107e421ebbd2c82aebd42e39?tpId=101&&tqId=33163&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
-|    02    |                 判断两个字符串是否互为旋转词                 |                                                              |
+|    02    |                 判断两个字符串是否互为旋转词                 | [判断两个字符串是否互为旋转词(牛客)](https://www.nowcoder.com/practice/687deda2cc57473499e058207f6258cf?tpId=101&&tqId=33164&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 |    03    |                    将整数字符串转成整数值                    |                                                              |
 |    04    |                      字符串的统计字符串                      |                                                              |
 |    05    |         判断字符串数组中是否所有的字符都只出现过一次         |                                                              |
