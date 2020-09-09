@@ -19,9 +19,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chap1/08_AllLessNumSubArray.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-46">
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chap5/01_isDeformation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -80,6 +93,8 @@
         <option value="$PROJECT_DIR$/chap3/06_pathSum.py" />
         <option value="$PROJECT_DIR$/chap8/27_findMaximizedCapital.py" />
         <option value="$PROJECT_DIR$/chap8/10_longestCommonSubsequence.py" />
+        <option value="$PROJECT_DIR$/chap1/08_AllLessNumSubArray.py" />
+        <option value="$PROJECT_DIR$/chap5/01_isDeformation.py" />
       </list>
     </option>
   </component>
@@ -449,7 +464,18 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chap1/08_AllLessNumSubArray.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46">
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap5/01_isDeformation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="14" column="10" lean-forward="true" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
