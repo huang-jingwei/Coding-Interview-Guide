@@ -10,12 +10,12 @@ str2 =input().strip()
 
 # 主函数入口
 # 若两个字符串互为变形词，那么字符串长度必然一致
-if m != n:
+if len(str1) != len(str2):
     print("false")
     exit()
 string_times = {}
 
-for index in range(m):
+for index in range(len(str1)):
     if str1[index] not in string_times:
         string_times[str1[index]] = 1
     else:
