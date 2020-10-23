@@ -1,24 +1,29 @@
 # Definition for a binary tree node.
-class TreeNode:
-    def __init__(self, x):
-        self.val = x
-        self.left = None
-        self.right = None
+# class TreeNode:
+#     def __init__(self, x):
+#         self.val = x
+#         self.left = None
+#         self.right = None
 
-#函数功能：求解二叉树的最大深度
 class Solution:
-    def maxDepth(self, root: TreeNode) -> int:
-        if root==None:
+    def minDepth(self, root: TreeNode) -> int:
+        if root == None:
             return 0
-        leftHeight=self.maxDepth(root.left)
-        rightHeight=self.maxDepth(root.right)
-        return max(leftHeight,rightHeight)+1
 
-#函数功能：求解二叉树的最小深度
-class Solution:
-    def maxDepth(self, root: TreeNode) -> int:
-        if root==None:
-            return 0
-        leftHeight=self.maxDepth(root.left)
-        rightHeight=self.maxDepth(root.right)
-        return max(leftHeight,rightHeight)+1
+        level = 0   # 记录二叉树层序遍历的层数
+
+        queue = []  # 二叉树层序遍历的辅助队列结构
+        queue.append(root)
+
+        while len(queue) > 0:
+            nextNode = []  # 二叉树下一层节点
+            level += 1
+            for node in queue:
+                if node.left != None:
+                    nextNode.append(node.left)
+                if node.right != None:
+                    nextNode.append(node.right)
+                if node.left == None and node.right == None:
+                    return level
+            queue = nextNode
+        return level
