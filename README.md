@@ -166,7 +166,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    19    |                   数组中子数组的最大累乘积                   | [乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/) |
 |    20    | [打印N个数组整体最大的Top K](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/20_getLeastNumbers.py) | [最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/) |
 |    21    |                  边界都是1的最大正方形大小                   |                                                              |
-|    22    |                    不包含本位置的累乘数组                    |                                                              |
+|    22    | [不包含本位置的累乘数组](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/22_constructArr.py) | [构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/) |
 |    23    |                     数组的partition调整                      |                                                              |
 |    24    |                         求最短通路值                         |                                                              |
 |    25    |                   数组中未出现的最小正整数                   |                                                              |
