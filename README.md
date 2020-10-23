@@ -72,7 +72,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    20    | [二叉树节点间的最大距离问题](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/20_diameterOfBinaryTree.py) | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |
 |    21    |                       派对的最大快乐值                       |                                                              |
 |    22    | [通过先序遍历和中序遍历生成后序数组](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3/22_buildTree) | [从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)、[根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) |
-|    23    |                  统计和生成所有不同的二叉树                  |                                                              |
+|    23    |                  统计和生成所有不同的二叉树                  | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)、[不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) |
 |    24    | [统计完全二叉树的节点数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/24_countNodes.py) | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) |
 
 
