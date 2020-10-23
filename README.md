@@ -51,7 +51,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 | 题目序号 |                        自己实现的题解                        |                            OJ链接                            |
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    01    | [分别用递归和非递归方式实现二叉树先序、中序和后序遍历](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3/01_treePrint) | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)、[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)、[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) |
-|    02    |                       二叉树的最小深度                       | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)、[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |
+|    02    | [二叉树的最小深度](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3/02_minDepth) | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)、[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |
 |    03    |                   如何较为直观的打印二叉树                   |                                                              |
 |    04    | [二叉树的序列化和反序列化](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/04_serialize_deserialize.py) | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |
 |    05    |              遍历二叉树的神级方法（Morris遍历）              |                                                              |
@@ -67,7 +67,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    15    | [判断一颗二叉树是否为搜索二叉树和完全二叉树](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3/15_isValidBST) | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)、[二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/) |
 |    16    | [通过有序数组生成平衡搜索二叉树](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/16_sortedArrayToBST.py) | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) |
 |    17    |               在二叉树中找到一个节点的后继节点               |                                                              |
-|    18    |             在二叉树中找到两个节点的最近公共祖先             |                                                              |
+|    18    |             在二叉树中找到两个节点的最近公共祖先             | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)、[二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) |
 |    19    | Tarjan算法与并查集解决二叉树节点间最近公共祖先的批量查询问题 |                                                              |
 |    20    | [二叉树节点间的最大距离问题](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/20_diameterOfBinaryTree.py) | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |
 |    21    |                       派对的最大快乐值                       |                                                              |
