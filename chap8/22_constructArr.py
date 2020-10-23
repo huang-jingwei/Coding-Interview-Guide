@@ -19,4 +19,4 @@ class Solution:
         answer = [1] * listLength
         for index in range(listLength):
             answer[index] = left[index] * right[index]
-        return answer         
+        return answer

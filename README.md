@@ -154,7 +154,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    07    | [在行列都排好序的矩阵中找指定数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/07_findNumberIn2DArray.py) | [二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/) |
 |    08    |                   最长的可整合子数组的长度                   |                                                              |
 |    09    | [不重复打印排序数组中相加和为给定值得所有二元组和三元组](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap8/09_numSum) | [和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/) |
-|    10    |         未排序正数组中累加和为给定值的最长子数组长度         |                                                              |
+|    10    |         未排序正数组中累加和为给定值的最长子数组长度         | [未排序正数组中累加和为给定值的最长子数组长度(牛客网)](https://www.nowcoder.com/practice/a4e34287fa1b41f9bd41f957efbd5dff?tpId=101&&tqId=33076&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 |    11    |        未排序数组中累加和为给定值的最长子数组系列问题        |                                                              |
 |    12    |       未排序数组中累加小于或等于给定值的最长子数组长度       |                                                              |
 |    13    |                        计算数组的小和                        |                                                              |
@@ -169,7 +169,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    22    | [不包含本位置的累乘数组](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/22_constructArr.py) | [构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/) |
 |    23    |                     数组的partition调整                      |                                                              |
 |    24    |                         求最短通路值                         |                                                              |
-|    25    |                   数组中未出现的最小正整数                   |                                                              |
+|    25    |                   数组中未出现的最小正整数                   | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) |
 |    26    |                 数组排序之后相邻数的最大差值                 |                                                              |
 |    27    | [做项目的最大收益问题](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/27_findMaximizedCapital.py) | [IPO](https://leetcode-cn.com/problems/ipo/)（备注：思路没问题，但是会超出时间限制，还得进一步优化） |
 |    28    |                       分金条的最小花费                       |                                                              |
