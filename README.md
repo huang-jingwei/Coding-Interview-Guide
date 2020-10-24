@@ -60,8 +60,8 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    08    |         找到二叉树中符合搜索二叉树条件的最大拓扑结构         |                                                              |
 |    09    | [二叉树的按层打印和ZigZag打印](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3/09_treePrint) | [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |
 |    10    |                调整搜索二叉树中两个错误的节点                | [恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) |
-|    11    |              判断t1树是否包含t2树全部的拓扑结构              |                                                              |
-|    12    |          判断t1树是否有与t2树拓扑结构完全相同的子树          |                                                              |
+|    11    | [判断t1树是否包含t2树全部的拓扑结构](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/11_isSubStructure.py) | [树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) |
+|    12    | [判断t1树是否有与t2树拓扑结构完全相同的子树](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/12_isSubtree.py) | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |
 |    13    | [判断二叉树是否为平衡二叉树](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap3/13_isBalanced.py) | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) |
 |    14    | [根据后序数组重建搜索二叉树](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3/14_verifyPostorder) | [二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) |
 |    15    | [判断一颗二叉树是否为搜索二叉树和完全二叉树](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3/15_isValidBST) | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)、[二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/) |
