@@ -193,7 +193,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    11    |             最大的leftMax与rightMax之差的绝对值              |                                                              |
 |    12    | [设计LRU缓存结构](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap9/12_LRUCache.py) |  [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)  |
 |    13    |                       LFU缓存结构设计                        |                                                              |
-|    14    | [设计RamdomPool结构](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap9/14_RandomizedCollection.py) | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)、[O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) |
+|    14    | [设计RamdomPool结构](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap9/14_RandomizedCollection) | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)、[O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) |
 |    15    | [并查集的实现](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap9/15_numIslands.py) | [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) |
 |    16    |                调整[0,x)区间上的数出现的概率                 |                                                              |
 |    17    |                     路径数组变为统计数组                     |                                                              |
