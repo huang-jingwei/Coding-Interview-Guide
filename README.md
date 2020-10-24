@@ -202,9 +202,9 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    20    |                  一种字符串和数字的对应关系                  |                                                              |
 |    21    |                      1到n中1出现的次数                       | [1～n 整数中 1 出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) |
 |    22    |                   从N个数中等概率打印M个数                   |                                                              |
-|    23    |                    判断一个数是否是回文数                    |                                                              |
-|    24    |                  在有序旋转数组中找到最小值                  |                                                              |
-|    25    |                  在有序旋转数组中找到一个数                  |                                                              |
+|    23    | [判断一个数是否是回文数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap9/23_isPalindrome.py) | [回文数](https://leetcode-cn.com/problems/palindrome-number/) |
+|    24    | [在有序旋转数组中找到最小值](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap9/24_findMin.py) | [寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/) |
+|    25    |                  在有序旋转数组中找到一个数                  | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) |
 |    26    |                   数字的英文表达和正文表达                   |                                                              |
 |    27    |                          分糖果问题                          |                                                              |
 |    28    |                 一种消息接收并打印的结构设计                 |                                                              |
