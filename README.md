@@ -200,7 +200,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    18    |                   正数数组的最小不可组成和                   |                                                              |
 |    19    |             累加出整个范围所有的数最少还需几个数             |                                                              |
 |    20    |                  一种字符串和数字的对应关系                  |                                                              |
-|    21    |                      1到n中1出现的次数                       |                                                              |
+|    21    |                      1到n中1出现的次数                       | [1～n 整数中 1 出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof/) |
 |    22    |                   从N个数中等概率打印M个数                   |                                                              |
 |    23    |                    判断一个数是否是回文数                    |                                                              |
 |    24    |                  在有序旋转数组中找到最小值                  |                                                              |
@@ -209,7 +209,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    27    |                          分糖果问题                          |                                                              |
 |    28    |                 一种消息接收并打印的结构设计                 |                                                              |
 |    29    | [随时找到数据流的中位数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap9/29_MedianFinder.py) | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) |
-|    30    |             在两个长度相等的排序数组中找到中位数             |                                                              |
+|    30    | [在两个长度相等的排序数组中找到中位数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap9/30_findMedianSortedArrays.py) | [寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) |
 |    31    |                在两个排序数组中找到第k小的数                 |                                                              |
 |    32    |               两个有序数组间相加和的Top k问题                |                                                              |
 |    33    |                     出现次数的Top k问题                      |                                                              |
