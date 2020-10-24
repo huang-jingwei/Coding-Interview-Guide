@@ -190,7 +190,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    07    |                      能否完美地拼成矩形                      |                                                              |
 |    08    |                          蓄水池问题                          |                                                              |
 |    09    |                   设计有setAll功能的哈希表                   |                                                              |
-|    11    |             最大的leftMax与rightMax之差的绝对值              |                                                              |
+|    11    |             最大的leftMax与rightMax之差的绝对值              | [最大的leftMax与rightMax之差的绝对值(牛客网)](https://www.nowcoder.com/practice/0639c9c82ca643d0b08a58ae40cad178?tpId=101&&tqId=33131&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 |    12    | [设计LRU缓存结构](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap9/12_LRUCache.py) |  [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)  |
 |    13    |                       LFU缓存结构设计                        |                                                              |
 |    14    | [设计RamdomPool结构](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap9/14_RandomizedCollection) | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)、[O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/) |
@@ -210,7 +210,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    28    |                 一种消息接收并打印的结构设计                 |                                                              |
 |    29    | [随时找到数据流的中位数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap9/29_MedianFinder.py) | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/) |
 |    30    | [在两个长度相等的排序数组中找到中位数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap9/30_findMedianSortedArrays.py) | [寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) |
-|    31    |                在两个排序数组中找到第k小的数                 |                                                              |
+|    31    |                在两个排序数组中找到第k小的数                 |           在LeetCode里面，30和31题都是同样一道题目           |
 |    32    |               两个有序数组间相加和的Top k问题                |                                                              |
 |    33    |                     出现次数的Top k问题                      | [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) |
 |    34    |                         Manacher算法                         |                                                              |
