@@ -125,7 +125,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    10    |              删除多余字符得到字典序最小的字符串              |                                                              |
 |    11    |                  数组中两个字符串的最小距离                  |                                                              |
 |    12    |                     字符串的转换路径问题                     |                                                              |
-|    13    |            添加最少字符使字符串整体都是回文字符串            | [让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) |
+|    13    | [添加最少字符使字符串整体都是回文字符串](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap5/13_minInsertions.py) | [让字符串成为回文串的最少插入次数](https://leetcode-cn.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) |
 |    14    |               括号字符串的有效性和最长有效长度               |                                                              |
 |    15    |                        公式字符串求值                        |                                                              |
 |    16    |                 0左边必有1的二进制字符串数量                 |                                                              |
@@ -133,11 +133,11 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    18    | [找到字符串的最长无重复字符子串](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap5/18_lengthOfLongestSubstring.py) | [最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) |
 |    19    |                     找到指定的新类型字符                     |                                                              |
 |    20    |                        旋变字符串问题                        |                                                              |
-|    21    |                      最小包含子串的长度                      |                                                              |
+|    21    |                      最小包含子串的长度                      | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/) |
 |    22    |                        回文最少分割数                        |                                                              |
 |    23    |                        字符串匹配问题                        |                                                              |
 |    24    | [字典树（前缀树）的实现](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap5/24_Trie.py) | [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) |
-|    25    |                      子数组的最大异或和                      |                                                              |
+|    25    |                      子数组的最大异或和                      | [子数组最大异或和(牛客网)](https://www.nowcoder.com/practice/43f62c52fbac47feaeabe40ac1ab9091?tpId=101&tqId=33209&tPage=1&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking)，[数组中两个数的最大异或值](https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/) |
 
 ## [第8章：数组和矩阵问题](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap8)
 
