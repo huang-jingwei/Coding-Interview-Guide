@@ -10,7 +10,7 @@ class Trie:
         """
         Inserts a word into the trie.
         """
-        root = self.node  # 前缀树总的头节点
+        root = self.node   # 前缀树总的头节点
         for char in word:  # 依次遍历字符串的每个单个字符
             # 当前字符在前缀树没有对应头节点，则新建对应头节点
             if char not in root:
@@ -27,7 +27,7 @@ class Trie:
         Returns if the word is in the trie.
         """
 
-        root = self.node  # 前缀树总的头节点
+        root = self.node   # 前缀树总的头节点
         for char in word:  # 依次遍历字符串的每个单个字符
             # 当前字符在前缀树没有对应头节点，则必定不存在该字符串
             if char not in root:
@@ -46,7 +46,7 @@ class Trie:
         """
         Returns if there is any word in the trie that starts with the given prefix.
         """
-        root = self.node  # 前缀树总的头节点
+        root = self.node     # 前缀树总的头节点
         for char in prefix:  # 依次遍历字符串的每个单个字符
             # 当前字符在前缀树没有对应头节点，则必定不存在该字符串
             if char not in root:
