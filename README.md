@@ -120,7 +120,7 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    05    | [判断字符串数组中是否所有的字符都只出现过一次](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap5/05_stringIsUnique.py) |             牛客网和LeetCode OJ均找不到这个题目              |
 |    06    | [在有序但含有空的数组中查找字符串](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap5/06_getIndex.py) | [在有序但含有空的数组中查找字符串(牛客网)](https://www.nowcoder.com/practice/92c172ef7c6d4ccc8f3103c3bc36cae2?tpId=101&&tqId=33167&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 |    07    | [字符串的调整与替换](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap5/07_replaceSpace.py) | [替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof/) |
-|    08    |                          翻转字符串                          |                                                              |
+|    08    | [翻转字符串](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap5/08_reverseWords.py) | [翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/) |
 |    09    |                         完美洗牌问题                         |                                                              |
 |    10    |              删除多余字符得到字典序最小的字符串              |                                                              |
 |    11    |                  数组中两个字符串的最小距离                  |                                                              |
