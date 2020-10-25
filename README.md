@@ -130,13 +130,13 @@ Python语言实现左程云《程序员代码面试指南》第二版
 |    15    |                        公式字符串求值                        |                                                              |
 |    16    |                 0左边必有1的二进制字符串数量                 |                                                              |
 |    17    |          拼接所有字符串产生字典顺序最小的大写字符串          |                                                              |
-|    18    |                找到字符串的最长无重复字符子串                |                                                              |
+|    18    | [找到字符串的最长无重复字符子串](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap5/18_lengthOfLongestSubstring.py) | [最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) |
 |    19    |                     找到指定的新类型字符                     |                                                              |
 |    20    |                        旋变字符串问题                        |                                                              |
 |    21    |                      最小包含子串的长度                      |                                                              |
 |    22    |                        回文最少分割数                        |                                                              |
 |    23    |                        字符串匹配问题                        |                                                              |
-|    24    |                    字典树（前缀树）的实现                    |                                                              |
+|    24    |                    字典树（前缀树）的实现                    | [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) |
 |    25    |                      子数组的最大异或和                      |                                                              |
 
 ## [第8章：数组和矩阵问题](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap8)
