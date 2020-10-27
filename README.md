@@ -1,5 +1,5 @@
 # Coding-Interview-Guide
-Python语言实现左程云《程序员代码面试指南》第二版
+左程云《程序员代码面试指南》第二版编程题的Python语言实现
 
 牛客网OJ：[程序员代码面试指南](https://www.nowcoder.com/ta/programmer-code-interview-guide?page=1)
 
