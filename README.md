@@ -3,6 +3,10 @@
 
 牛客网OJ：[程序员代码面试指南](https://www.nowcoder.com/ta/programmer-code-interview-guide?page=1)
 
+LeetCode：https://leetcode-cn.com/problemset/all/
+
+
+
 因为牛客网OJ在链表、二叉树等相关题目均把题目数据以链表数据结构给出，略掉了二叉树、链表等结构的相关信息。这样不能准确评估是否已经正确解出题目。故下面除特殊说明，否则OJ链接均默认为LeetCode对应题目链接。 
 
 ## [第1章：栈和队列](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap1)
@@ -159,7 +163,7 @@
 |    12    |       未排序数组中累加小于或等于给定值的最长子数组长度       |                                                              |
 |    13    |                        计算数组的小和                        |                                                              |
 |    14    |                       自然数数组的排序                       |                                                              |
-|    15    |              奇数下标都是奇数或偶数下标都是偶数              |                                                              |
+|    15    |              奇数下标都是奇数或偶数下标都是偶数              | [奇数下标都是奇数或偶数下标都是偶数(牛客网)](https://www.nowcoder.com/practice/335823db14b945ab95241a74cfcf1ae7?tpId=101&&tqId=33092&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |
 |    16    | [子数组的最大累加和问题](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/16_maxSubArray.py) | [连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/) |
 |    17    |                    子矩阵的最大累加和问题                    |                                                              |
 |    18    |                在数组中找到一个局部最小的位置                |                                                              |
