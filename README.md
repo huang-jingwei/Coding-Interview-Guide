@@ -169,8 +169,8 @@
 |    22    | [不包含本位置的累乘数组](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/22_constructArr.py) | [构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/) |
 |    23    |                     数组的partition调整                      |                                                              |
 |    24    |                         求最短通路值                         |                                                              |
-|    25    |                   数组中未出现的最小正整数                   | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) |
-|    26    |                 数组排序之后相邻数的最大差值                 |                                                              |
+|    25    | [数组中未出现的最小正整数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/25_firstMissingPositive.py) | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/) |
+|    26    | [数组排序之后相邻数的最大差值](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/26_maximumGap.py) |  [最大间距](https://leetcode-cn.com/problems/maximum-gap/)   |
 |    27    | [做项目的最大收益问题](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap8/27_findMaximizedCapital.py) | [IPO](https://leetcode-cn.com/problems/ipo/)（备注：思路没问题，但是会超出时间限制，还得进一步优化） |
 |    28    |                       分金条的最小花费                       |                                                              |
 |    29    |                         大楼轮廓问题                         |                                                              |
