@@ -212,7 +212,7 @@
 |    30    | [在两个长度相等的排序数组中找到中位数](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap9/30_findMedianSortedArrays.py) | [寻找两个正序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/) |
 |    31    |                在两个排序数组中找到第k小的数                 |           在LeetCode里面，30和31题都是同样一道题目           |
 |    32    |               两个有序数组间相加和的Top k问题                |                                                              |
-|    33    |                     出现次数的Top k问题                      | [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) |
+|    33    | [出现次数的Top k问题](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap9/33_topKFrequent.py) | [前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) |
 |    34    |                         Manacher算法                         |                                                              |
 |    35    |                           KMP算法                            |                                                              |
 |    36    |                          丢棋子问题                          |                                                              |

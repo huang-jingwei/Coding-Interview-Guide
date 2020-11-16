@@ -1,21 +1,32 @@
 class Solution:
-    def findMaximizedCapital(self, k: int, W: int, Profits: List[int], Capital: List[int]) -> int:
-        workDone = []  # 记录已经完成的项目
-        canInvest = True  # 判断还能否继续进行投资
-        while len(workDone) < k and canInvest == True:
-            # 先找出在当前资金下，在未完成的项目中，找出利润最大的项目的编号
-            itemIndex = -1
-            maxProfit = 0
-            for index in range(len(Capital)):
-                if (Capital[index] <= W) and (index not in workDone) and (Profits[index] > maxProfit):
-                    itemIndex = index
-                    maxProfit = Profits[index]
+    def firstMissingPositive(self, nums: List[int]) -> int:
+        length = len(nums)
+        if length == 0:
+            return 1
 
-            # 投资利润最大的项目
-            if itemIndex != -1:
-                workDone.append(itemIndex)
-                W += maxProfit
-                canInvest = True
-            else:
-                canInvest = False
-        return W
+        data = {}  # 储存数组中所有正数
+
+        for index in range(length):
+            item = nums[index]
+            if item > 0:
+                # 存放数组的正数，key：元素数值，value：index
+                if item not in data:
+                    data[item] = [index]
+                else:
+                    data[item].append(index)
+
+        postiveNum = 1  # 按照顺序，依次应该出现的正数
+
+        for index in range(length):
+            if nums[index] > 0:
+                # 情况1：该正数在数组中不存在
+                if postiveNum not in data:
+                    return postiveNum
+
+                # 情况2：该正数存在，但是出现次序是在当前索引的后面
+                exactIndexRange = data[nums[index]]
+                if index not in exactIndexRange:
+                    return postiveNum
+
+                postiveNum += 1
+        return postiveNum
