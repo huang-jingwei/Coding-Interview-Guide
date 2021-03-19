@@ -18,7 +18,7 @@ LeetCode：https://leetcode-cn.com/problemset/all/
 |    03    | [如何仅用递归函数和栈操作逆序一个栈](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap1/03_getAndRemoveLastElement.py) | [用递归函数和栈操作逆序一个栈(牛客)](https://www.nowcoder.com/practice/1de82c89cc0e43e9aa6ee8243f4dbefd?tpId=101&tqId=33075&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
 |    04    |                           猫狗队列                           |                                                              |
 |    05    | [用一个栈实现另一个栈的排序](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap1/05_SortedStack.py) | [栈排序](https://leetcode-cn.com/problems/sort-of-stacks-lcci/) |
-|    06    |                     用栈来求解汉诺塔问题                     |                                                              |
+|    06    |                     用栈来求解汉诺塔问题                     | [面试题 08.06. 汉诺塔问题](https://leetcode-cn.com/problems/hanota-lcci/) |
 |    07    | [生成窗口最大值数组](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap1/07_maxSlidingWindow.py) | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) |
 |    08    | [单调栈结构](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap1/08_AllLessNumSubArray.py) | [单调栈结构(牛客网)](https://www.nowcoder.com/questionTerminal/e3d18ffab9c543da8704ede8da578b55) |
 |    09    |                      求最大子矩阵的大小                      | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) |
