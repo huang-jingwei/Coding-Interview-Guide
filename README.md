@@ -15,7 +15,7 @@ LeetCode：https://leetcode-cn.com/problemset/all/
 | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |    01    | [设计一个有getMin功能的栈](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap1/01_MinStack.py) | [栈的最小值](https://leetcode-cn.com/problems/min-stack-lcci/) |
 |    02    | [由两个栈组成的队列](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap1/02_MyQueue.py) | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) |
-|    03    |              如何仅用递归函数和栈操作逆序一个栈              |                                                              |
+|    03    |              如何仅用递归函数和栈操作逆序一个栈              | [用递归函数和栈操作逆序一个栈(牛客)](https://www.nowcoder.com/practice/1de82c89cc0e43e9aa6ee8243f4dbefd?tpId=101&tqId=33075&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |
 |    04    |                           猫狗队列                           |                                                              |
 |    05    | [用一个栈实现另一个栈的排序](https://github.com/gdutthu/Coding-Interview-Guide/blob/master/chap1/05_SortedStack.py) | [栈排序](https://leetcode-cn.com/problems/sort-of-stacks-lcci/) |
 |    06    |                     用栈来求解汉诺塔问题                     |                                                              |
