@@ -95,14 +95,14 @@ LeetCode：https://leetcode-cn.com/problemset/all/
 | :--: | :------------------------------: | :----------------------------------------------------------: | :--: |
 |  01  | 斐波那契数列问题的递归和动态规划 | [斐波那契数](https://leetcode-cn.com/problems/fibonacci-number/) |  ✔   |
 |  02  |         矩阵的最小路径和         | [最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/) |  ✔   |
-|  03  |        [换钱的最少货币数         |  [零钱兑换](https://leetcode-cn.com/problems/coin-change/)   |  ✔   |
+|  03  |         换钱的最少货币数         |  [零钱兑换](https://leetcode-cn.com/problems/coin-change/)   |  ✔   |
 |  04  |     机器人到达指定位置方法数     | [机器人到达指定位置方法数（牛客）](https://www.nowcoder.com/practice/54679e44604f44d48d1bcadb1fe6eb61?tpId=101&&tqId=33085&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |  ✔   |
 |  05  |           换钱的方法数           | [零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2/) |  ✔   |
 |  06  |         打气球的最大分数         |                                                              |      |
 |  07  |          最长递增子序列          | [最长递增子序列的个数](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/) |  ✔   |
 |  08  |           信封嵌套问题           |                                                              |      |
 |  09  |            汉诺塔问题            |                                                              |      |
-|  10  |        最长公共子序列问题        | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) |  ✔   |
+|  10  |        最长公共子序列问题        | [最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/) |      |
 |  11  |         最长公共子串问题         |                                                              |      |
 |  12  |     子数组异或为0的最多划分      |                                                              |      |
 |  13  |          最小的编辑代价          |                                                              |      |
