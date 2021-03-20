@@ -54,32 +54,32 @@ LeetCode：https://leetcode-cn.com/problemset/all/
 
 ## [第3章：二叉树问题](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3)
 
-| 序号 |                             题目                             |                            OJ链接                            | 备注 |
-| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: |
-|  01  |     分别用递归和非递归方式实现二叉树先序、中序和后序遍历     | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)、[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)、[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) |  ✔   |
-|  02  |                       二叉树的最小深度                       | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)、[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |  ✔   |
-|  03  |                   如何较为直观的打印二叉树                   |                                                              |      |
-|  04  |                   二叉树的序列化和反序列化                   | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |  ✔   |
-|  05  |              遍历二叉树的神级方法（Morris遍历）              | [遍历二叉树的神级方法(牛客网)](https://www.nowcoder.com/practice/5abcb95fe19d475a989dac3ba53e4635?tpId=101&tqId=33232&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |  ✔   |
-|  06  |          在二叉树中找到累加和为指定值的最长路径长度          | [二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) |  ✔   |
-|  07  |                找到二叉树中的最大搜索二叉子树                |               只有leetcode会员才能测试o(╯□╰)o                |      |
-|  08  |         找到二叉树中符合搜索二叉树条件的最大拓扑结构         |                                                              |      |
-|  09  |                 二叉树的按层打印和ZigZag打印                 | [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |  ✔   |
-|  10  |                调整搜索二叉树中两个错误的节点                | [恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) |  ✔   |
-|  11  |              判断t1树是否包含t2树全部的拓扑结构              | [树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) |  ✔   |
-|  12  |          判断t1树是否有与t2树拓扑结构完全相同的子树          | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |  ✔   |
-|  13  |                  判断二叉树是否为平衡二叉树                  | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) |  ✔   |
-|  14  |                  根据后序数组重建搜索二叉树                  | [二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) |  ✔   |
-|  15  |          判断一颗二叉树是否为搜索二叉树和完全二叉树          | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)、[二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/) |  ✔   |
-|  16  |                通过有序数组生成平衡搜索二叉树                | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) |  ✔   |
-|  17  |               在二叉树中找到一个节点的后继节点               |  [后继者](https://leetcode-cn.com/problems/successor-lcci/)  |  ✔   |
-|  18  |             在二叉树中找到两个节点的最近公共祖先             | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)、[二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) |  ✔   |
-|  19  | Tarjan算法与并查集解决二叉树节点间最近公共祖先的批量查询问题 |                                                              |      |
-|  20  |                  二叉树节点间的最大距离问题                  | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |  ✔   |
-|  21  |                       派对的最大快乐值                       |                                                              |      |
-|  22  |              通过先序遍历和中序遍历生成后序数组              | [从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)、[根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) |  ✔   |
-|  23  |                  统计和生成所有不同的二叉树                  | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)、[不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) |      |
-|  24  |                    统计完全二叉树的节点数                    | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) |  ✔   |
+| 序号 |                             题目                             |                            OJ链接                            |      备注      |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------: |
+|  01  |     分别用递归和非递归方式实现二叉树先序、中序和后序遍历     | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/)、[二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/)、[二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/) |       ✔        |
+|  02  |                       二叉树的最小深度                       | [二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree/)、[二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) |       ✔        |
+|  03  |                   如何较为直观的打印二叉树                   |                                                              |                |
+|  04  |                   二叉树的序列化和反序列化                   | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/) |       ✔        |
+|  05  |              遍历二叉树的神级方法（Morris遍历）              | [遍历二叉树的神级方法(牛客网)](https://www.nowcoder.com/practice/5abcb95fe19d475a989dac3ba53e4635?tpId=101&tqId=33232&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |       ✔        |
+|  06  |          在二叉树中找到累加和为指定值的最长路径长度          | [二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof/) |       ✔        |
+|  07  |                找到二叉树中的最大搜索二叉子树                | [找到二叉树中的最大搜索二叉子树(牛客网)](https://www.nowcoder.com/practice/380d49d7f99242709ab4b91c36bf2acc?tpId=101&tqId=33234&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |       ✔        |
+|  08  |         找到二叉树中符合搜索二叉树条件的最大拓扑结构         | [找到二叉树中符合搜索二叉树条件的最大拓扑结构(牛客网)](https://www.nowcoder.com/practice/380d49d7f99242709ab4b91c36bf2acc?tpId=101&tqId=33234&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) | 只能过50％case |
+|  09  |                 二叉树的按层打印和ZigZag打印                 | [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |       ✔        |
+|  10  |                调整搜索二叉树中两个错误的节点                | [恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) |       ✔        |
+|  11  |              判断t1树是否包含t2树全部的拓扑结构              | [树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) |       ✔        |
+|  12  |          判断t1树是否有与t2树拓扑结构完全相同的子树          | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |       ✔        |
+|  13  |                  判断二叉树是否为平衡二叉树                  | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) |       ✔        |
+|  14  |                  根据后序数组重建搜索二叉树                  | [二叉搜索树的后序遍历序列](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-hou-xu-bian-li-xu-lie-lcof/) |       ✔        |
+|  15  |          判断一颗二叉树是否为搜索二叉树和完全二叉树          | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/)、[二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree/) |       ✔        |
+|  16  |                通过有序数组生成平衡搜索二叉树                | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/) |       ✔        |
+|  17  |               在二叉树中找到一个节点的后继节点               |  [后继者](https://leetcode-cn.com/problems/successor-lcci/)  |       ✔        |
+|  18  |             在二叉树中找到两个节点的最近公共祖先             | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)、[二叉树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/) |       ✔        |
+|  19  | Tarjan算法与并查集解决二叉树节点间最近公共祖先的批量查询问题 |                                                              |                |
+|  20  |                  二叉树节点间的最大距离问题                  | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/) |       ✔        |
+|  21  |                       派对的最大快乐值                       |                                                              |                |
+|  22  |              通过先序遍历和中序遍历生成后序数组              | [从中序与后序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)、[根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/) |       ✔        |
+|  23  |                  统计和生成所有不同的二叉树                  | [不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees/)、[不同的二叉搜索树 II](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/) |                |
+|  24  |                    统计完全二叉树的节点数                    | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/) |       ✔        |
 
 
 
