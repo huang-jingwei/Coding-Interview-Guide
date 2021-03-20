@@ -42,7 +42,7 @@ LeetCode：https://leetcode-cn.com/problemset/all/
 |  09  |              复制含有随机指针节点的链表              | [复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) |  ✔   |
 |  10  |                两个单链表生成相加链表                | [链表求和](https://leetcode-cn.com/problems/sum-lists-lcci/) |  ✔   |
 |  11  |              两个单链表相交的一系列问题              | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) |  ✔   |
-|  12  |             将单链表的每K个节点之间逆序              | [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) |      |
+|  12  |             将单链表的每K个节点之间逆序              | [K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/) |  ✔   |
 |  13  |           删除无序单链表中值重复出现的节点           | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/) |  ✔   |
 |  14  |              在单链表中删除指定值的节点              | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) |  ✔   |
 |  15  |              将搜索二叉树转换成双向链表              | [二叉搜索树与双向链表](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-yu-shuang-xiang-lian-biao-lcof/) |      |
