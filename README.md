@@ -17,14 +17,14 @@ LeetCode：https://leetcode-cn.com/problemset/all/
 | :--: | :---------------------------------------: | :----------------------------------------------------------: | ---- |
 |  01  |         设计一个有getMin功能的栈          | [栈的最小值](https://leetcode-cn.com/problems/min-stack-lcci/) | ✔    |
 |  02  |            由两个栈组成的队列             | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/) | ✔    |
-|  03  |    如何仅用递归函数和栈操作逆序一个栈     | [用递归函数和栈操作逆序一个栈(牛客)](https://www.nowcoder.com/practice/1de82c89cc0e43e9aa6ee8243f4dbefd?tpId=101&tqId=33075&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) | ✔    |
+|  03  |    如何仅用递归函数和栈操作逆序一个栈     | [用递归函数和栈操作逆序一个栈(牛客网)](https://www.nowcoder.com/practice/1de82c89cc0e43e9aa6ee8243f4dbefd?tpId=101&tqId=33075&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) | ✔    |
 |  04  |                 猫狗队列                  |                                                              |      |
 |  05  |        用一个栈实现另一个栈的排序         | [栈排序](https://leetcode-cn.com/problems/sort-of-stacks-lcci/) | ✔    |
 |  06  |           用栈来求解汉诺塔问题            | [面试题 08.06. 汉诺塔问题](https://leetcode-cn.com/problems/hanota-lcci/) | ✔    |
 |  07  |            生成窗口最大值数组             | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) | ✔    |
 |  08  |                单调栈结构                 | [单调栈结构(牛客网)](https://www.nowcoder.com/questionTerminal/e3d18ffab9c543da8704ede8da578b55) | ✔    |
 |  09  |            求最大子矩阵的大小             | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/) | ✔    |
-|  10  | 最大值减去最小值小于或等于num的子数组数量 | [最大值减去最小值小于或等于num的子数组数量(牛客)](https://www.nowcoder.com/practice/5fe02eb175974e18b9a546812a17428e?tpId=101&tqId=33086&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) | ✔    |
+|  10  | 最大值减去最小值小于或等于num的子数组数量 | [最大值减去最小值小于或等于num的子数组数量(牛客网)](https://www.nowcoder.com/practice/5fe02eb175974e18b9a546812a17428e?tpId=101&tqId=33086&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) | ✔    |
 |  11  |              可见山峰对数量               |                                                              |      |
 
 ## [第2章：链表问题](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap2)
@@ -35,8 +35,8 @@ LeetCode：https://leetcode-cn.com/problemset/all/
 |  02  |         在单链表和双链表中删除倒数第K个节点          | [ 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) |  ✔   |
 |  03  |            删除链表的中间节点和a/b处节点             | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/) |  ✔   |
 |  04  |                  翻转单向和双向链表                  | [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) |  ✔   |
-|  05  |                   翻转部分单向链表                   | [翻转部分单向链表(牛客)](https://www.nowcoder.com/practice/f11155006f154419b0bef6de8918aea2?tpId=101&tqId=33176&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |  ✔   |
-|  06  |                环形单链表的约瑟夫问题                | [环形单链表的约瑟夫问题(牛客)](https://www.nowcoder.com/practice/c3b34059faf546d3a7ee28f2b0154286?tpId=101&tqId=33177&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |  ✔   |
+|  05  |                   翻转部分单向链表                   | [翻转部分单向链表(牛客网)](https://www.nowcoder.com/practice/f11155006f154419b0bef6de8918aea2?tpId=101&tqId=33176&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |  ✔   |
+|  06  |                环形单链表的约瑟夫问题                | [环形单链表的约瑟夫问题(牛客网)](https://www.nowcoder.com/practice/c3b34059faf546d3a7ee28f2b0154286?tpId=101&tqId=33177&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |  ✔   |
 |  07  |              判断一个链表是否为回文结构              | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) |  ✔   |
 |  08  | 将单向链表按某值划分为左边小、中间相等、右边大的形式 |  [颜色分类](https://leetcode-cn.com/problems/sort-colors/)   |  ✔   |
 |  09  |              复制含有随机指针节点的链表              | [复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof/) |  ✔   |
@@ -50,7 +50,7 @@ LeetCode：https://leetcode-cn.com/problemset/all/
 |  17  |                一种怪异的节点删除方式                | [删除链表的节点](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/) |  ✔   |
 |  18  |            向有序的环形单链表中插入新节点            | [向有序的环形单链表中插入新节点(牛客网)](https://www.nowcoder.com/practice/8a2ed8d048f241fd92b478140bad18a1?tpId=101&&tqId=33226&rp=1&ru=/ta/programmer-code-interview-guide&qru=/ta/programmer-code-interview-guide/question-ranking) |  ✔   |
 |  19  |                 合并两个有序的单链表                 | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) |  ✔   |
-|  20  |           按照左右半区的方式重新组合单链表           |                                                              |      |
+|  20  |           按照左右半区的方式重新组合单链表           | [按照左右半区的方式重新组合单链表(牛客网)](https://www.nowcoder.com/practice/a7a348bdb4634e228cf7704c8a2a8bda?tpId=101&tqId=33228&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |  ✔   |
 
 ## [第3章：二叉树问题](https://github.com/gdutthu/Coding-Interview-Guide/tree/master/chap3)
 
