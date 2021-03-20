@@ -35,7 +35,7 @@ LeetCode：https://leetcode-cn.com/problemset/all/
 |  02  |         在单链表和双链表中删除倒数第K个节点          | [ 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/) |  ✔   |
 |  03  |            删除链表的中间节点和a/b处节点             | [删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci/) |  ✔   |
 |  04  |                  翻转单向和双向链表                  | [反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/) |  ✔   |
-|  05  |                   翻转部分单向链表                   |                                                              |      |
+|  05  |                   翻转部分单向链表                   | [翻转部分单向链表(牛客)](https://www.nowcoder.com/practice/f11155006f154419b0bef6de8918aea2?tpId=101&tqId=33176&rp=1&ru=%2Fta%2Fprogrammer-code-interview-guide&qru=%2Fta%2Fprogrammer-code-interview-guide%2Fquestion-ranking&tab=answerKey) |  ✔   |
 |  06  |                环形单链表的约瑟夫问题                |                                                              |      |
 |  07  |              判断一个链表是否为回文结构              | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) |  ✔   |
 |  08  | 将单向链表按某值划分为左边小、中间相等、右边大的形式 |  [颜色分类](https://leetcode-cn.com/problems/sort-colors/)   |  ✔   |
