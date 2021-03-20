@@ -65,7 +65,7 @@ LeetCode：https://leetcode-cn.com/problemset/all/
 |  07  |                找到二叉树中的最大搜索二叉子树                |               只有leetcode会员才能测试o(╯□╰)o                |      |
 |  08  |         找到二叉树中符合搜索二叉树条件的最大拓扑结构         |                                                              |      |
 |  09  |                 二叉树的按层打印和ZigZag打印                 | [二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) |  ✔   |
-|  10  |                调整搜索二叉树中两个错误的节点                | [恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) |      |
+|  10  |                调整搜索二叉树中两个错误的节点                | [恢复二叉搜索树](https://leetcode-cn.com/problems/recover-binary-search-tree/) |  ✔   |
 |  11  |              判断t1树是否包含t2树全部的拓扑结构              | [树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof/) |  ✔   |
 |  12  |          判断t1树是否有与t2树拓扑结构完全相同的子树          | [另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree/) |  ✔   |
 |  13  |                  判断二叉树是否为平衡二叉树                  | [平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree/) |  ✔   |
