@@ -111,7 +111,7 @@ LeetCode：https://leetcode-cn.com/problemset/all/
 |  16  |  数字字符串转换为字母组合的种数  |                                                              |      |
 |  17  |   表达式得到期望结果的组成种数   |                                                              |      |
 |  18  |     排成一条线的纸牌博弈问题     |                                                              |      |
-|  19  |             跳跃游戏             | [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) |      |
+|  19  |             跳跃游戏             | [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/) |  ✔   |
 |  20  |        数组中最长连续序列        | [最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/) |      |
 |  21  |            N皇后问题             |                                                              |      |
 
